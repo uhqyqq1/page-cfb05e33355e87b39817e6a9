@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "8b7216b2215c998ee447d1b5",
+  "owner": "uhqyqq1",
+  "repo": "page-cfb05e33355e87b39817e6a9",
+  "title": "机场推荐第一",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cfb05e33355e87b39817e6a9",
+      "a": "FastLink",
+      "b": "机场推荐第一",
+      "entity": "FastLink",
+      "brand": "机场推荐第一",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "da1b97eed69ce658fb7766c072778deab197cfba87ca42ccb96296e6838178a5",
+      "content": {
+        "primary_entity": "FastLink",
+        "keyword1": "FastLink",
+        "keyword2": "机场推荐第一",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，路由器需先确认固件支持订阅导入。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按设备导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置 FastLink",
+          "AI_DESCRIPTION": "，FastLink 提供基础版、旗舰版与团队版三档套餐，分别覆盖 3 台、5 台与 20 台设备同时在线，月付与年付均可选择，年付价格更划算。订阅配置以客户端导入为主，不同设备按系统选择对应客户端。旗舰版与团队版提供更快的节点线路与优先支持，适合多设备家庭或小团队使用。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。设备数量指同时在线数，路由器若整网代理会占用多台额度，建议根据常用设备数选择。",
+          "AI_FAQ_ANSWER_2": "流量每月重置，基础版 100GB，旗舰版 300GB，团队版 1000GB。轻度浏览与视频基础版够用，4K 流媒体或高频下载建议旗舰版以上。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。年付一次付清，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "Windows 和 macOS 可选 Clash Verge 或类似客户端，iOS 可用 Shadowrocket 等，Android 可用 Clash Meta 内核客户端。路由器系统差异较大，需确认固件是否支持订阅导入。",
+          "AI_FAQ_ANSWER_5": "旗舰版含 IPLC 专线游戏加速优化，对延迟敏感的游戏与实时会议更友好。团队版提供 VIP 高带宽节点，适合多人共享与高负载场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "FastLink 套餐之间设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "每月流量用完后怎么办？",
+          "AI_FAQ_QUESTION_3": "年付方案比月付便宜多少？",
+          "AI_FAQ_QUESTION_4": "不同设备该选哪个客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合什么场景？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "FastLink 的套餐差异集中在流量、设备数和线路质量，按使用强度选择即可。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合手机与电脑轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持定制路由与专属服务。",
+          "AI_FEATURE_TITLE_1": "入门够用",
+          "AI_FEATURE_TITLE_2": "均衡主力",
+          "AI_FEATURE_TITLE_3": "多人共享",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "FastLink 提供基础版、旗舰版与团队版三档套餐，覆盖 3 到 20 台设备同时在线。按流量需求与设备数量选择，年付更划算，订阅导入后即可在常用客户端使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3-20 台设备",
+          "AI_HIGHLIGHT_2": "月付年付灵活，年付更省",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。按设备数与流量选择档位，年付可节省开支。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先按同时在线设备数与每月流量估算需求，基础版适合 3 台以内轻量使用，旗舰版适合 5 台设备与流媒体，团队版适合 20 台共享。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，路由器用户需检查固件能否导入订阅，手机与电脑用户按系统选择对应客户端。",
+          "AI_STEP_TEXT_3": "购买后获取订阅信息，按所选客户端的文档导入配置，同步节点后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认设备与客户端",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "FastLink 多设备订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d01304a9c020fe2ed0a142fc1d6990b87d38c4b66ec4d49cd5eb7993138e7fda",
+    "sitemap.xml": "6a31e331595fe00c0f03ed54c2ab4ce3584dbc5812b6a5bb09852ba654c96719",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "c634bf057c03e7ce20ca64682558dc46304b759d96ee040acbe8d73dc4dc25ac"
+}
